@@ -1,0 +1,28 @@
+.container{
+    display: block;
+    text-align: center;
+    margin-top: 100px;
+    /* height: 500px;
+    width: 500px; */
+    background-color: white; 
+}
+.mt-3{
+    margin-right: 20px;
+}
+.mt-4{
+    margin-top: 100px;
+}
+body{
+    background-color: #030221;
+}
+.Homepage{
+    margin-top: 200px;
+    padding: 10px;
+    height: 400px;
+    width: 400px;
+    border-radius: 50px;
+}
+.Homepage-content{
+    margin-top: 35%;
+}
+

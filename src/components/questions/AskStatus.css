@@ -1,0 +1,52 @@
+.StatusContainer{
+    border-radius: 50px;
+    padding: 100px;
+    width: 500%;
+}
+
+.Status{
+    align-items: center;
+    background-color: lightsteelblue;
+    text-align: bottom;
+    display: flex;
+    justify-content: space-around;
+    padding: 5px;
+    width: 250px;
+    height: 100px;
+    margin-left: auto;
+    border-radius: 20px;
+    /* margin-left: auto;
+    margin-right: auto; */
+}
+.StatusTable{
+    /* width: 200px; */
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.boxes{
+    
+    box-sizing: border-box;
+    line-break: auto;
+    width: 10px;
+    height: 50px;
+}
+input[type="checkbox"] { 
+    position: relative;
+    left: 25px;
+    bottom: 0px;
+    width: 45px;
+    height: 45px; 
+}
+.form-check-label{
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+

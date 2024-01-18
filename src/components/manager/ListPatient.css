@@ -1,0 +1,11 @@
+.ListPatient{
+    display: block;
+    border-radius: 50px;
+    padding: 30px;
+    margin-top: 30px;
+    margin-bottom: auto;
+    }
+button{
+    display: flex;
+    justify-content: space-around;
+}
