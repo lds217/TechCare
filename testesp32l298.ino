@@ -50,12 +50,12 @@ Servo servo_motor;
 #define WIFI_SSID "Techcare"
 #define WIFI_PASSWORD "12345778"
 
-#define API_KEY "AIzaSyAD4NIXoybX16_MeFA5bjJzJyicH8ZjCco"
-#define DATABASE_URL "https://esp32-340a5-default-rtdb.asia-southeast1.firebasedatabase.app/" 
-#define FIREBASE_PROJECT_ID "tech-care-screen-3e4pzh"
+#define API_KEY ""
+#define DATABASE_URL "" 
+#define FIREBASE_PROJECT_ID ""
 
-#define USER_EMAIL "lds050606@gmail.com"
-#define USER_PASSWORD "Bindat0506"
+#define USER_EMAIL ""
+#define USER_PASSWORD ""
 
 
 FirebaseData fbdo;
